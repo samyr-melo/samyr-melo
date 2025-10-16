@@ -1,4 +1,4 @@
-- 👋 Olá! Sou Samyr Melo, um desenvolvedor com experiência em diversas tecnologias web.
+# Samyr Melo - Desenvolver Web
 
   
 - Habilidades:
@@ -8,7 +8,7 @@
 -  React: Desenvolvimento de interfaces de usuário modernas e interativas com a biblioteca React.
 -  HTML & CSS: Criação de estruturas e estilos para páginas web responsivas e acessíveis.
 -  Node.js: Desenvolvimento de aplicações back-end robustas e escaláveis com Node.js.
-- 📫 Sobre Mim:
+- 📫 
 - Sou apaixonado por tecnologia e estou sempre buscando aprender e aprimorar minhas habilidades. Tenho experiência em projetos web e estou sempre aberto a novos desafios.
 - ⚡Contato
 
